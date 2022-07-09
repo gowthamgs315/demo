@@ -7,6 +7,9 @@ class HelloWorld {
 =======
 		System.out.println("target rember i have to ");
 		System.out.println("got it ");
+		System.out.println("got it ");
+		System.out.println("got it ");
+		
 >>>>>>> 8d0c56925c2ba584bbe3215bd762186c18eca3aa
         // Hello World!
     }
