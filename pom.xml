@@ -1,0 +1,9 @@
+<project>
+
+<modelVersion>4.0.0</modelVersion>
+<groupID>my.mvn.com</groupID>
+<artifact>mymavnproject</artifact>
+<version>1.0</version>
+<packaging>jar</packaging>
+
+</project>
