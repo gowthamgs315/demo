@@ -1,13 +1,8 @@
 <project>
 
 <modelVersion>4.0.0</modelVersion>
-<<<<<<< HEAD
-<groupID>my.mvn.com</groupID>
-<artifact>mymavnproject</artifact>
-=======
 <groupId>my.mvn.com</groupId>
 <artifactId>mymavnproject</artifactId>
->>>>>>> 8d0c56925c2ba584bbe3215bd762186c18eca3aa
 <version>1.0</version>
 <packaging>jar</packaging>
 
