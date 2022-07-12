@@ -2,5 +2,5 @@
 tfyftfutfutfukyyfky
 fg
 fjjg
-ggy
-yiuy
+ggymn
+yiuyl
