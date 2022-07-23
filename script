@@ -1,6 +1,6 @@
 node{
  
- stage('for clone java code') {
+ stage('for loop and  clone java code') {
 git branch: 'main', url: 'https://github.com/gowthamgs315/demo.git'
 }
 
